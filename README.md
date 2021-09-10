@@ -6,9 +6,6 @@ Este repositório contém alguns exercícios de shell script passados em sala de
 ### :white_medium_square: Exercício 2
 <br><img src="imgs/exer2.PNG" alt="Exercício 2"/><br>
 
-### :white_medium_square: Exercício 3
-<br><img src="imgs/exer3.PNG" alt="Exercício 3"/><br>
-
 ### :white_medium_square: Exercício 4
 <br><img src="imgs/exer4.PNG" alt="Exercício 4"/><br>
 
